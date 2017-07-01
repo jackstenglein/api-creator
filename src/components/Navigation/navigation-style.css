@@ -1,0 +1,14 @@
+.MenuButton {
+  padding-top: 10px;
+}
+
+.MenuButton hr {
+  padding-top: 10px;
+}
+
+.Menu {
+  display: flex;
+  flex-direction: column;
+  width: 10%;
+  height: 500px;
+}

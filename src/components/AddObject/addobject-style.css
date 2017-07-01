@@ -1,0 +1,15 @@
+.SectionHeader {
+  text-align: left;
+  font-size: 15pt;
+  padding-left: 15px;
+  padding-right: 25px;
+}
+
+.ObjectNameContainer {
+  display: flex;
+  align-items: center;
+}
+
+.AttributeNameField {
+  align-self:flex-start;
+}
