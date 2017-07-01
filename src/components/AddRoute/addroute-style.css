@@ -1,0 +1,10 @@
+.RouteRow {
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+}
+
+.RouteLabel {
+  padding-left: 10px;
+  padding-right: 20px;
+}

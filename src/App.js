@@ -3,6 +3,7 @@ import logo from './logo.svg';
 import './App.css';
 import Navigation from './components/Navigation/Navigation.js';
 import AddObject from './components/AddObject/AddObject.js';
+import AddRoute from './components/AddRoute/AddRoute.js';
 
 class App extends Component {
   render() {
@@ -10,7 +11,7 @@ class App extends Component {
       <div className="App">
         <div className="MainContainer">
 
-          <AddObject />
+          <AddRoute />
         </div>
       </div>
     );
